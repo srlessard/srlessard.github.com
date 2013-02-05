@@ -6,17 +6,17 @@ body {
 }
 
 p {
-    color:#001100;
+    color:#00ff00;
 }
 
 a {
-    color:#0000f0;
+    font-size:120%;
 }
 
 .name {
-    font-size:22px;
+    font-size:140%;
 }
 
 .other {
-    font-size:12px;
+    font-size:100%;
 }
