@@ -1,4 +1,13 @@
-.field {
-    color: #0099ff
-    background-color: #009900
+body {
+    margin:4px;
 }
+
+.field {
+    color:#0099ff;
+    background-color:#009900;
+}
+
+p {
+    color:#001100;
+}
+
